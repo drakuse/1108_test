@@ -53,7 +53,7 @@ public class TestClass {
 				run = false;
 				break;
 			default:
-				System.out.println("1~5의 번호를 입력하시오");
+				System.out.println("1~5의 번호를 입력하시오 ㅋㅋㅋㅋㅋ");
 				break;
 			}
 		}
